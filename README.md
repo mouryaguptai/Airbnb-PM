@@ -14,7 +14,7 @@ The project, managed using MS Project, focuses on two main business problems: ev
 ![Project Board](Kanban.png)
 
 ### Backlog View
-![Backlog View](Project Backlog.png)
+![Backlog View](Project_Backlog.png)
 
 ## Usage
 - **Viewing Tasks**: Tasks can be viewed by their current status: To Do, In Progress, or Done.
